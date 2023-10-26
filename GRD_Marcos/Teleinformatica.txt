@@ -4,3 +4,4 @@ Centro de Gestion, Mercados, Logistica y Tecnologias de la Informacion
 Ficha: 2502600
 Trimestre: 7
 Año: 2023
+Prueba
